@@ -5,7 +5,7 @@
 |01|[Qubit](#team-01)| 하이브리드 양자 알고리즘 QAOA를 활용한 최적 특징 추출
 |02|[MBP](#team-02)| 실세계 소규모 의료 데이터 환경에서의 ai 모델 평가 벤치마크 개발
 |03|[세얼간이](#team-03)| 대학생 개발자 팀의 효율적인 협업을 위한 회의록 기반의 지능형 진척 관리 및 피드백 시스템
-|04|[MedExplain](#team-04)| 의료 상담 음성을 실시간 전사하고 다국어 번역을 제공하는 AI 기반 의료 상담 지원 플랫폼
+|04|[MedExplain](#team-04)| 환자의 의료 이해도 향상을 위한 진료 대화 자동 요약 및 의학 용어 설명 시스템
 |05|[HiBee](#team-05)| 스마트폰 사용 패턴을 분석하여 게임형 보상 시스템으로 사용 습관 개선을 돕는 어플리케이션
 |06|[브라우니](#team-06)| CLIP-RD : Relative Distillation for Efficient CLIP Knowledge Distillation
 |07|[我](#team-07)| 트렌드를 주도할 자신만의 디지털 아이덴티티를 구축하고 싶은 20대 여성 크리에이터 지망생을 위한 음성, 이미지, 성향 분석 기반 온라인 페르소나 및 맞춤형 컨텐츠 생성 도우미
@@ -92,15 +92,15 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-04
-| (1) 과제명 |  의료 상담 음성을 실시간 전사하고 다국어 번역을 제공하는 AI 기반 의료 상담 지원 플랫폼 |
+| (1) 과제명 |  환자의 의료 이해도 향상을 위한 진료 대화 자동 요약 및 의학 용어 설명 시스템 |
 |:---  |---  |
 | (2) 팀 번호/이름 | 04-MedExplain |
-| (3) 구성원 | 정아윤(2276285): 리더,*역할,...* <br> 임하령(2376245): 팀원,*역할,....* <br> 이다은(2376190): 팀원,*역할,....* |
+| (3) 구성원 | 정아윤(2276285): 리더,*서버/STT 세션 관리/안정성* <br> 임하령(2376245): 팀원,*모바일/스트리밍 UI* <br> 이다은(2376190): 팀원,*UX/데모/발표 스토리* |
 | (4) 지도교수 | 윤명국 교수 |
 | (5) 트랙  | 산학 |
-| (6) 과제 키워드 | Healthcare · Streaming STT · AI Translation · Medical Conversation · Multilingual Support |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (6) 과제 키워드 | Healthcare · Streaming STT · Medical Conversation · Patient Understanding ·  Medical Explanation |
+| (7) 과제 내용 요약 | 의료진과 환자의 진료 대화를 바탕으로 핵심 내용을 자동 요약하고, 어려운 의학 용어를 환자 관점에서 쉽게 설명하여 환자의 의료 이해도 향상과 진료 내용의 사후 확인을 지원하는 시스템이다.  |
+| (8) 주요 Link | https://github.com/kelly96110jung/Growth_Backend <br> https://github.com/BorderLee/Growth_Front |
  
 <br>
  
